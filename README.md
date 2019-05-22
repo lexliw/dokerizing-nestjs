@@ -3,7 +3,7 @@ Exemplo de como dockerizar uma app node feito em nestjs
 
 ## Criar os arquivos abaixo conforme exemplo:
 [.dockerignore](https://github.com/lexliw/dokerizing-nestjs/blob/master/.dockerignore)
-[Dockerfile](https://github.com/lexliw/dokerizing-nestjs/blob/master/Dockerfile
+[Dockerfile](https://github.com/lexliw/dokerizing-nestjs/blob/master/Dockerfile)
 
 ## depois executar no terminal:
 
