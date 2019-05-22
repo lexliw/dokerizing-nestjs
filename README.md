@@ -1,7 +1,7 @@
 # dokerizing-nestjs
 Exemplo de como dockerizar uma app node feito em nestjs
 
-## criar os arquivos abaixo conforme exemplo:
+## Criar os arquivos abaixo conforme exemplo:
 .dockerignore
 Dockerfile
 
