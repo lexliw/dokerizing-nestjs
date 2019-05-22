@@ -17,6 +17,10 @@ $ sudo docker build -t alex/apptest .
 ```bash
 $ sudo docker run -p3001:3000 -d alex/apptest
 ```
+### Verificar qual o id da imagem
+```bash
+$ sudo docker images
+```
 ### Verificar se imagem subiu legal
 ```bash
 $ sudo docker logs 0ab506426a8d
